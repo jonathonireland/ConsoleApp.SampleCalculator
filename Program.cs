@@ -34,6 +34,7 @@ int Quotient(int num1, int num2)
     return num1 / num2;
 }
 
+// Fibonnaci Method for Switch Case 
 int Fibonnaci(int num1, int num2) 
 {
     int answer = 0;
